@@ -34,7 +34,7 @@
 <br>
 <br>
 
-<h3 align="center"><b>💻 진행 프로젝트 💻</b></h3>
+<h3 align="center"><b>🎖️ 진행 프로젝트 🎖️</b></h3>
 <p align="center">2023.03 ~ 2023.06</p>
 <p align="center"><a href="https://github.com/hojunleesunsin/Capstone_project" target="_blank">아기 울음소리 분류 스마트 베이비 슬리퍼</a></p>
 <ul>
