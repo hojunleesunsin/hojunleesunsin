@@ -47,7 +47,7 @@
 <hr>
 <br>
 
-<p align="center">2023.03 ~ 2023.06</p>
+<p align="center">2023.09 ~ Now</p>
 <p align="center"><a href="https://github.com/kdk0411/Chat_Bot/tree/hojun" target="_blank">Chat Bot을 이용한 작업일지 APP</a></p>
 <ul>
   <li>Flask 서버를 이용하여 클라이언트로부터 들어온 요청을 처리</li>
