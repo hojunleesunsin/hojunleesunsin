@@ -35,6 +35,16 @@
 <br>
 <br>
 
+<h3 align="center"><b>🧾 취득 자격증 🧾</b></h3>
+<p align="center">
+OCP, Oracle Certified Professional 1z0-082 &nbsp&nbsp&nbsp&nbsp📆 23.10.06 <br>
+정보처리기사 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp📆 23.06.09 <br>
+정보처리산업기사 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp📆 21.08.20
+
+
+<br>
+<br>
+
 <h3 align="center"><b>🎖️ 진행 프로젝트 🎖️</b></h3>
 <p align="center">2023.03 ~ 2023.06</p>
 <p align="center"><a href="https://github.com/hojunleesunsin/Capstone_project" target="_blank">아기 울음소리 분류 스마트 베이비 슬리퍼</a></p>
