@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20HoJun%20Github&fontSize=50&animation=twinkling&text-color=black)
 
 <h3 align="center"><b>❤️About me❤️</b></h3>
-<p align="center"><a href="https://hojunleesunsin.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<!--<p align="center"><a href="https://hojunleesunsin.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p> -->
 
 <p align="center">안녕하세요 ! 서버 개발자 이호준입니다.</p>
 <p align="center"> 저의 사용가능 언어는 Java, JavaScript가 있습니다.</p>
@@ -90,7 +90,10 @@ OCP, Oracle Certified Professional 1z0-082 &nbsp&nbsp&nbsp&nbsp📆 23.10.06 <br
 <p align="center">2022.11 ~ 2022.12</p>
 <p align="center"><a href="https://github.com/hojunleesunsin/Quiz_Web_Project" target="_blank">퀴즈 웹 사이트 마즐래 마출래</a></p>
 <ul>
-  <li></li>
+  <li>jsp 기반의 웹 페이지 제작으로 사용자가 퀴즈를 풀 수 있도록 웹페이지 구성</li>
+  <li>회원가입, 로그인 기능을 추가하여 로그인한 회원만이 퀴즈를 풀 수 있는 기능</li>
+  <li>로그인한 회원들이 자신들의 정보를 조회하거나 수정할 수 있는 기능</li>
+  <li>Admin 기능을 추가하여 회원들을 관리할 수 있는 기능 적용</li>
 </ul>
 
 <br>
