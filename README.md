@@ -65,9 +65,10 @@ OCP, Oracle Certified Professional 1z0-082 &nbsp&nbsp&nbsp&nbsp📆 23.10.06 <br
 <br>
 
 <p align="center">2023.07 ~ 2023.08</p>
-<p align="center"><a href="https://github.com/hojunleesunsin/Gcloud_Project" target="_blank">GCP, Judge0를 이용한 코드 컴파일러 구현</a></p>
+<p align="center"><a href="https://github.com/hojunleesunsin/Gcloud_Project" target="_blank">GCP, Judge0를 이용한 온라인 코드 실행 시스템 구현</a></p>
 <ul>
-  <li></li>
+  <li>javascript 언어를 사용해 judge0에 실행 할 코드를 보내고 결과값을 받아와 결과값을 보여주는 기능 수행</li>
+  <li>GCP VM에서 도커로 생성한 judge0 서버와 Apache 웹 서버의 통신으로 온라인 코드 실행 시스템 기능 수행</li>
 </ul>
 
 <br>
