@@ -45,7 +45,9 @@ OCP, Oracle Certified Professional 1z0-082 &nbsp&nbsp&nbsp&nbsp📆 23.10.06 <br
 <p align="center">2023.10 ~ Now</p>
 <p align="center"><a href="https://github.com/hojunleesunsin/SpringBoot_blog" target="_blank">스프링 부트를 이용한 블로그 구현</a></p>
 <ul>
-  <li></li>
+  <li>사용자가 글을 조회, 등록, 수정, 삭제를 할 수 있는 블로그 CRUD 기능</li>
+  <li>스프링 시큐리티를 이용한 로그인, 회원가입, 로그아웃 기능</li>
+  <li>JWT를 이용해 액세스 토큰, 리프레시 토큰 발급 기능</li>
 </ul>
 
 <br>
