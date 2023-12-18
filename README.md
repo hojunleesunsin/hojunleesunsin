@@ -52,19 +52,7 @@ OCP, Oracle Certified Professional 1z0-082 &nbsp&nbsp&nbsp&nbsp📆 23.10.06 <br
 <hr>
 <br>
 
-<p align="center">2023.09 ~ Now</p>
-<p align="center"><a href="https://github.com/hojunleesunsin/Chat_Bot" target="_blank">Chat Bot을 이용한 작업일지 APP</a></p>
-<ul>
-  <li>Flask 서버를 이용하여 클라이언트로부터 들어온 요청을 처리</li>
-    DB에 값 저장, 검색, 수정, 삭제 및 앱으로 결과값 전송
-  <li>Flask 서버를 이용하여 앱으로부터 전달받은 텍스트를 학습된 Chat Bot모델에 입력 후 결과값 앱으로 전송</li>
-</ul>
-
-<br>
-<hr>
-<br>
-
-<p align="center">2023.07 ~ 2023.08</p>
+<p align="center">2023.07 ~ 2023.09</p>
 <p align="center"><a href="https://github.com/hojunleesunsin/Gcloud_Project" target="_blank">GCP, Judge0를 이용한 온라인 코드 실행 시스템 구현</a></p>
 <ul>
   <li>javascript 언어를 사용해 judge0에 실행 할 코드를 보내고 결과값을 받아와 결과값을 보여주는 기능 수행</li>
