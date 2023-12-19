@@ -42,7 +42,7 @@ OCP, Oracle Certified Professional 1z0-082 &nbsp&nbsp&nbsp&nbsp📆 23.10.06 <br
 <br>
 
 <h3 align="center"><b>🎖️ 진행 프로젝트 🎖️</b></h3>
-<p align="center">2023.10 ~ Now</p>
+<p align="center">2023.10 ~ 2023.12</p>
 <p align="center"><a href="https://github.com/hojunleesunsin/SpringBoot_blog" target="_blank">스프링 부트를 이용한 블로그 구현</a></p>
 <ul>
   <li>사용자가 글을 조회, 등록, 수정, 삭제를 할 수 있는 블로그 CRUD 기능</li>
