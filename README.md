@@ -1,12 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20HoJun%20Github&fontSize=50&animation=twinkling&text-color=black)
 
 <h3 align="center"><b>❤️About me❤️</b></h3>
-<!--<p align="center"><a href="https://hojunleesunsin.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p> -->
 
 <p align="center">안녕하세요 ! 서버 개발자 이호준입니다.</p>
-<p align="center"> 저의 사용가능 언어는 Java, JavaScript가 있습니다.</p>
-<p align="center"> 사용하는 웹 프레임워크는 Node.js, Spring Boot가 있습니다. </p>
-<p align="center"> 사용 가능한 Database는 mongoDB, Oracle이 있습니다. </p>
+<p align="center"> 저의 주요 사용 언어는 Java 입니다.</p>
+<p align="center"> 사용하는 웹 프레임워크는 Spring Boot, node.js가 있습니다. </p>
+<p align="center"> 사용 가능한 Database는 Oracle, mongoDB가 있습니다. </p>
 <p align="center">늘 새로운 것을 배워가며 꾸준히 성장하는 개발자가 목표입니다.🔥</p>
 <p align="center">저의 성장을 지켜봐주세요 !</p>
 
